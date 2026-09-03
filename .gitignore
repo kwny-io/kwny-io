@@ -1,0 +1,6 @@
+# Build tooling / render scripts — not part of the profile page
+lottie-render/
+
+# Unused assets not referenced by README.md
+assets/alien.gif
+assets/hero.svg
