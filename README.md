@@ -19,7 +19,14 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🗂️ Repos
+## 📊 GitHub Stats
+
+<div align="center">
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kwny-io&show_icons=true&count_private=true&theme=transparent&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kwny-io&layout=compact&theme=transparent&hide_border=true)
+
+</div>
 
 ![Public Repos](https://img.shields.io/badge/dynamic/json?color=008000&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/kwny-io)
 
