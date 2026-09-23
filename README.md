@@ -19,7 +19,6 @@ I feel like I could look at this for another minute 👀 → Then I get back to 
 
 ## 🗂️ Repos
 
-![Public Repos](https://img.shields.io/badge/dynamic/json?color=008000&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/kwny-io)
 
 ---
 
